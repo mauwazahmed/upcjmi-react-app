@@ -1,0 +1,2 @@
+(window.webpackJsonpupcjmi=window.webpackJsonpupcjmi||[]).push([[23],{631:function(n,e,t){"use strict";t.r(e);var u=t(0),c=t.n(u);e.default=function(n){return c.a.createElement("div",null,"RecruitmentStudentScreen")}}}]);
+//# sourceMappingURL=23.df2faac0.chunk.js.map
