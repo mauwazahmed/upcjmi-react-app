@@ -1,0 +1,2 @@
+(window.webpackJsonpupcjmi=window.webpackJsonpupcjmi||[]).push([[29],{738:function(n,e,t){"use strict";t.r(e);var u=t(0),c=t.n(u);e.default=function(n){return c.a.createElement("div",null,"SettingsStudentScreen")}}}]);
+//# sourceMappingURL=29.76d2022f.chunk.js.map
