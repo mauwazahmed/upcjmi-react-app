@@ -1,2 +1,0 @@
-(window.webpackJsonpupcjmi=window.webpackJsonpupcjmi||[]).push([[32],{783:function(n,e,c){"use strict";c.r(e);var i=c(0),a=c.n(i);e.default=function(n){return a.a.createElement("div",{className:"container"},"Internship search coming soon")}}}]);
-//# sourceMappingURL=32.e4c30f17.chunk.js.map

@@ -1,2 +1,0 @@
-(window.webpackJsonpupcjmi=window.webpackJsonpupcjmi||[]).push([[28],{790:function(n,e,c){"use strict";c.r(e);var i=c(0),p=c.n(i);e.default=function(n){return p.a.createElement("div",null,"InternshipsCompanyScreen")}}}]);
-//# sourceMappingURL=28.757f7971.chunk.js.map
