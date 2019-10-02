@@ -1,2 +1,0 @@
-(window.webpackJsonpupcjmi=window.webpackJsonpupcjmi||[]).push([[33],{788:function(e,n,o){"use strict";o.r(n);var c=o(0),u=o.n(c);n.default=function(e){return u.a.createElement("div",{className:"container full-page",style:{backgroundColor:"#eee"}},"Resume Builder coming soon")}}}]);
-//# sourceMappingURL=33.d6ae40d6.chunk.js.map
